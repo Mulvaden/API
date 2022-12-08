@@ -1,0 +1,26 @@
+Open weather Api
+Konto
+Api Key
+
+Dokumentation
+
+var url = "http://api.com-----------api.key=zxy......&city="Stockholm" + input
+
+temp 28
+min 32
+max 55
+
+<input .... type="text">
+var input = .... value;
+
+Data
+
+var temp = data.temp;
+var minTemp = data.min;
+var maxTemp = data.max;
+
+function createCard (tmp, mtmp, maxtmp){
+    createElement.-----
+}
+
+d6281ee6840fffdb9fc51043fcb476c7
